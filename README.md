@@ -1,5 +1,5 @@
 # MarchiniTransferFxn2023
-This repository contains the data and code used to obtain results obtained while testing the plane wave and reciprocity transfer function methods using both simulation and experiment.
+This repository contains the data and code used to obtain results obtained while testing the plane wave and reciprocity transfer function methods using both simulation and experiment. The file "PosterAbtract" is a summary of the work.
 
 Download all the files into the same directory, then the two executable MATLAB files can be run to generate the figures to show the data collected.
 
